@@ -167,7 +167,7 @@ export default function SchemesPage() {
                     : 'border-transparent text-gray-600 hover:text-blue-500'
                 }`}
               >
-                All Schemes ({eligibleSchemes.length + otherSchemes.length})
+                
               </button>
             </div>
 
